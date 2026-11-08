@@ -1,0 +1,4 @@
+/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug/CMakeFiles/uincampus_core.dir
+/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug/CMakeFiles/uincampus.dir
+/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug/CMakeFiles/edit_cache.dir
+/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug/CMakeFiles/rebuild_cache.dir

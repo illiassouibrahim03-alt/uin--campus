@@ -25,7 +25,10 @@ endif()
 # Bibliothèque métier
 #-----------------------------------------------------------------------
 add_library(uincampus_core
-src/version.cpp)
+src/version.cpp 
+src/regles.cpp 
+src/saisie.cpp
+)
 target_include_directories(uincampus_core PUBLIC ${PROJECT_SOURCE_DIR}/include)
 target_compile_definitions(uincampus_core PRIVATE UIN_VERSION="${PROJECT_VERSION}")
 target_link_libraries(uincampus_core PRIVATE uincampus_options)
@@ -33,4 +36,5 @@ target_link_libraries(uincampus_core PRIVATE uincampus_options)
 # Application
 #-------------------------------------------------------------------------
 add_executable(uincampus app/main.cpp)
-target_link_libraries(uin-campus PRIVATE uincampus_core uincampus_options)
+target_link_libraries(uincampus PRIVATE uincampus_core uincampus_options)
+

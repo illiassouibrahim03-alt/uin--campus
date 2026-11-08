@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug",
+  "command": "/usr/bin/g++-14 -DUIN_VERSION=\\\"\\\" -I/home/assoumaneilliassouibrahim/Bureau/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/version.cpp.o -c /home/assoumaneilliassouibrahim/Bureau/uin-campus/src/version.cpp",
+  "file": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/src/version.cpp",
+  "output": "CMakeFiles/uincampus_core.dir/src/version.cpp.o"
+},
+{
+  "directory": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug",
+  "command": "/usr/bin/g++-14 -DUIN_VERSION=\\\"\\\" -I/home/assoumaneilliassouibrahim/Bureau/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/regles.cpp.o -c /home/assoumaneilliassouibrahim/Bureau/uin-campus/src/regles.cpp",
+  "file": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/src/regles.cpp",
+  "output": "CMakeFiles/uincampus_core.dir/src/regles.cpp.o"
+},
+{
+  "directory": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug",
+  "command": "/usr/bin/g++-14 -DUIN_VERSION=\\\"\\\" -I/home/assoumaneilliassouibrahim/Bureau/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/saisie.cpp.o -c /home/assoumaneilliassouibrahim/Bureau/uin-campus/src/saisie.cpp",
+  "file": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/src/saisie.cpp",
+  "output": "CMakeFiles/uincampus_core.dir/src/saisie.cpp.o"
+},
+{
+  "directory": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/build/debug",
+  "command": "/usr/bin/g++-14 -I/home/assoumaneilliassouibrahim/Bureau/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus.dir/app/main.cpp.o -c /home/assoumaneilliassouibrahim/Bureau/uin-campus/app/main.cpp",
+  "file": "/home/assoumaneilliassouibrahim/Bureau/uin-campus/app/main.cpp",
+  "output": "CMakeFiles/uincampus.dir/app/main.cpp.o"
+}
+]
